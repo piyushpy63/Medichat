@@ -37,9 +37,8 @@ from twilio.twiml.messaging_response import MessagingResponse
 
 Chatbot conversation :
 
-![alt text]([http://url/to/img.png](https://drive.google.com/file/d/10wOWzAsAo1Q6koDf5FZiiDREakevO4y2/view?usp=sharing))
-
-![App Screenshot](https://drive.google.com/file/d/1xFeH8IjkVgbGZzVlBAvGVfYF82CDOeX_/view?usp=share_link)
+![Screenshot](Picture 1.png)
+![Screenshot](Picture 2.png)
 
 
 
