@@ -36,9 +36,9 @@ from twilio.twiml.messaging_response import MessagingResponse
 ## Screenshots
 
 Chatbot conversation :
-
-![Picture 1](https://github.com/piyushpy63/Medichat/assets/96431711/3ba2d48b-eed9-4364-8c75-7f15299d12cf)
 ![Picture 2](https://github.com/piyushpy63/Medichat/assets/96431711/d00a404e-8b22-48a9-91dd-f7783ce3cddd)
+![Picture 1](https://github.com/piyushpy63/Medichat/assets/96431711/3ba2d48b-eed9-4364-8c75-7f15299d12cf)
+
 
 
 
