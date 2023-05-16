@@ -15,6 +15,10 @@ Requirements :
     1. Python 3
     2. Flask framework
     3. Twilio
+    4. Ngrok 
+    
+    Ngrok is used to convert localhost running application to run on Website.
+    Install Ngrok exe from this link : https://ngrok.com/download
 
 Install Flask :
 ```bash
@@ -33,6 +37,7 @@ from flask import Flask, request, render_template_string
 ```bash
 from twilio.twiml.messaging_response import MessagingResponse
 ```
+
 ## Screenshots
 
 Chatbot conversation :
